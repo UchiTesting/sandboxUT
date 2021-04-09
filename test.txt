@@ -1,0 +1,11 @@
+This file was created to try if a repo can be reseted.
+At this time, this repo still had the good old `master` base branch.
+
+- Did create an empty folder.
+- Added this file.
+- Ran `git init`
+- Ran `git remote add origin {this repo url}`
+- Pushed `push -u origin main`
+- Made `main` the new base branch. Could possibly remove the old `master` branch which is not merged.
+
+So commit history is lost → Seems we can reset a repo.
